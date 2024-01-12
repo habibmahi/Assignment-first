@@ -5,10 +5,10 @@
     border-radius: 16px;
     
     flex-shrink: 0;
-
+}
   
   
-  .bottom-left {
+  .bottom-left{
     position: absolute;
     top: 177px;
     left: 530px;
@@ -51,6 +51,7 @@ font-size: 88px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+margin-top: 100px;
   }
   .holiday{
     color: #F00;
@@ -60,6 +61,7 @@ font-size: 24px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
+margin-top: 50px;
   }
   .category{
     color: #070211;
@@ -69,6 +71,8 @@ font-size: 48px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+margin-top: 16px;
+margin-bottom: 48px;
   }
   .imga{
 
